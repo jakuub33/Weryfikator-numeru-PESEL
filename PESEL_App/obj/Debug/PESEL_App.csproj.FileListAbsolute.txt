@@ -1,0 +1,15 @@
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\bin\Debug\PESEL_App.exe.config
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\bin\Debug\PESEL_App.exe
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\bin\Debug\PESEL_App.pdb
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App.csprojAssemblyReference.cache
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\MainWindow.g.cs
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\App.g.cs
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App_MarkupCompile.cache
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App_MarkupCompile.lref
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\MainWindow.baml
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App.g.resources
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App.Properties.Resources.resources
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App.csproj.GenerateResource.cache
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App.exe
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App.pdb
+C:\Users\Kubson\source\repos\PESEL_App\PESEL_App\obj\Debug\PESEL_App.csproj.CoreCompileInputs.cache
